@@ -5,8 +5,8 @@
 
 <p align="center">
     <a href="https://www.npmjs.com/package/recover-rn"><img src="https://img.shields.io/npm/v/recover-rn?color=brightgreen" alt="NPM Version"></a>
-    <a href="#"><img src="https://img.shields.io/node/v/recover-rn" alt="Node.js Version"></a>
-    <a href="#"><img src="https://img.shields.io/npm/l/recover-rn" alt="License"></a>
+    <a href="#"><img src="https://img.shields.io/badge/node-%3E%3D16-blue" alt="Node.js Version"></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
 ---
@@ -38,6 +38,8 @@
 - **Dependency Check:** Automatically verifies if required tools (like `unzip` and `apktool`) are installed.
 ---
 ## Installation
+
+To use this tool, you will need Node.js (version 16 or higher) and `unzip` installed on your system.
 
 The recommended method is to use `npx`, which runs the package without needing a global installation.
 

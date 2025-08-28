@@ -15,6 +15,11 @@
     "gradient-string": "^3.0.0",
     "inquirer": "^12.9.4"
   },
+  
   "author": "Lucas Lima",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/L1malucas/recover-rn.git"
+  }
 }
