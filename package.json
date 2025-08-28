@@ -1,6 +1,6 @@
 {
   "name": "recover-rn",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "Ferramenta CLI para recuperar código e assets de apps React Native a partir de APK",
   "bin": {
     "recover-rn": "./bin/index.js"
@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "chalk": "^5.6.0",
+    "figlet": "^1.8.2",
+    "gradient-string": "^3.0.0",
     "inquirer": "^12.9.4"
   },
   "author": "Lucas Lima",
